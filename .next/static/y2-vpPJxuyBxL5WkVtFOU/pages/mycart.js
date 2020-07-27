@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[11],{nt8K:function(n,t,c){"use strict";c.r(t);var e=c("q1tI"),u=c.n(e),w=c("5Yp1"),i=u.a.createElement;t.default=function(n){return i(w.a,null,"My Cart View")}},tcpl:function(n,t,c){(window.__NEXT_P=window.__NEXT_P||[]).push(["/mycart",function(){return c("nt8K")}])}},[["tcpl",0,2,1,3,4]]]);
